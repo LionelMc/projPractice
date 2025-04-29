@@ -1,0 +1,10 @@
+# Ignorar entorno virtual dentro de API
+API/venv/
+
+# Ignorar carpetas __pycache__ en cualquier subcarpeta
+**/__pycache__/
+
+# Ignorar archivos .pyc en cualquier subcarpeta
+**/*.pyc
+
+
